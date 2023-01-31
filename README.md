@@ -19,7 +19,7 @@ yarn add ree-validate
 
 ### Getting Started
 ```
-import ReeValidate from 'ree-validate'
+import ReeValidate from 'ree-validate-18'
 ```
 
 install classnames for easily manage the classes
@@ -160,7 +160,7 @@ export default Page
 ```
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import ReeValidate from 'ree-validate'
+import ReeValidate from 'ree-validate-18'
 import fr from 'ree-validate/dist/locale/fr'
 ```
 
@@ -198,7 +198,7 @@ note: it is not yet part of the package
 
 ```jsx harmony
 import * as React from 'react'
-import { Validator } from 'ree-validate'
+import { Validator } from 'ree-validate-18'
 
 export default function withValidator(Component, fields){
   class withValidator extends React.Component{
