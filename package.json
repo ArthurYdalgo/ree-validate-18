@@ -1,14 +1,14 @@
 {
-  "name": "ree-validate",
-  "version": "3.3.2",
+  "name": "ree-validate-18",
+  "version": "3.3.3",
   "description": "Simple React.js input validation plugin",
   "author": "Moeen Basra <m.basra@live.com>",
   "license": "MIT",
   "module": "dist/ree-validate.esm.js",
   "unpkg": "dist/ree-validate.js",
   "main": "dist/ree-validate.js",
-  "homepage": "https://github.com/moeen-basra/ree-validate",
-  "repository": "https://github.com/moeen-basra/ree-validate",
+  "homepage": "https://github.com/ArthurYdalgo/ree-validate-18",
+  "repository": "https://github.com/ArthurYdalgo/ree-validate-18",
   "scripts": {
     "test": "jest",
     "lint": "eslint src tests --fix",
@@ -71,8 +71,8 @@
     "uglify-js": "^3.11.6"
   },
   "peerDependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "eslintIgnore": [
     "locale",
