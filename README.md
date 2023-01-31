@@ -2,6 +2,8 @@ VeeValidate is a library for [React.js](https://facebook.github.io/react/) that 
 
 This plugin is inspired by [PHP Framework Laravel's validation](https://laravel.com/).
 
+DISCLAIMER: this is a fork from [this repo](https://github.com/moeen-basra/ree-validate)
+
 ### Installation
 
 #### npm
